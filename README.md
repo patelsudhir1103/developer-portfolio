@@ -1,47 +1,24 @@
-# Picto - Personal Portfolio Free Template
+# Developer Portfolio
 
-#### Preview
+A modern full-stack portfolio website showcasing my projects, skills, and development journey.
 
-- [Demo](https://themewagon.github.io/picto/)
+## Features
+- Responsive Design
+- Project Showcase
+- Contact Section
+- Admin Dashboard
+- Modern UI/UX
 
-#### Download
+## Tech Stack
+- React.js
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- CSS
 
-- [Download from ThemeWagon](https://themewagon.com/themes/picto)
-
-## Getting Started
-
-1. Clone Repository
-
-```
-git clone https://github.com/themewagon/picto.git
-```
-
-2. Install Dependencies
-
-```
-npm i
-```
-
-3. Run the development server:
+## Installation
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-## Author
-
-```
-Developed by ThemeWagon and development team.
-```
-
-## License
-
-- Design and Code is Copyright &copy; <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
-- Licensed cover under [MIT]
-- Developed by <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
